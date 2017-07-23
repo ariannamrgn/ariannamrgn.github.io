@@ -87,3 +87,6 @@ a {
 .project img {
     max-width: 100%;
 }
+#headshot {
+    border-radius: 50%
+}
